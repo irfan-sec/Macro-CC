@@ -1,0 +1,11 @@
+{
+    "AI_PROVIDER": "claude",
+    "GEMINI_API_KEY": "",
+    "OPENAI_API_KEY": "",
+    "CLAUDE_API_KEY": "",
+    "SHOW_ONBOARDING": false,
+    "HOTKEY_START_RECORDING": "f8",
+    "HOTKEY_STOP_RECORDING": "f9",
+    "HOTKEY_REPLAY": "f10",
+    "HOTKEY_ABORT": "f11"
+}

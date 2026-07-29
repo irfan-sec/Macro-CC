@@ -1,0 +1,39 @@
+{
+  "macro_name": "TestMacro",
+  "run_id": "20260723_135643",
+  "start_time": "2026-07-23T13:56:43.712418",
+  "end_time": "2026-07-23T13:56:43.712468",
+  "total_duration_sec": 0.0,
+  "total_actions": 3,
+  "success_count": 2,
+  "fail_count": 1,
+  "entries": [
+    {
+      "timestamp": "2026-07-23T13:56:43.712418",
+      "action_index": 0,
+      "action_type": "move",
+      "action_details": "x=100, y=200",
+      "status": "SUCCESS",
+      "duration_ms": 50.0,
+      "error_message": null
+    },
+    {
+      "timestamp": "2026-07-23T13:56:43.712453",
+      "action_index": 1,
+      "action_type": "run_app",
+      "action_details": "notepad.exe",
+      "status": "SUCCESS",
+      "duration_ms": 100.0,
+      "error_message": null
+    },
+    {
+      "timestamp": "2026-07-23T13:56:43.712461",
+      "action_index": 2,
+      "action_type": "click",
+      "action_details": "left",
+      "status": "FAILED",
+      "duration_ms": 10.0,
+      "error_message": "Element not found"
+    }
+  ]
+}
