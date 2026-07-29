@@ -1,27 +1,7 @@
 # ⚡ Macro Recorder Pro — Complete Build Guide
 
-> Built with Python + GitHub Copilot (Claude Opus 4.6) | VS Code Local Setup
+> Built with Python VS Code Local Setup
 
----
-
-## 📁 Documentation Index
-
-| File | What It Covers |
-|------|----------------|
-| [01-setup.md](./01-setup.md) | Environment setup, VS Code portable, pip installs |
-| [02-architecture.md](./02-architecture.md) | Full project structure + data flow diagrams |
-| [03-phase1-recorder.md](./03-phase1-recorder.md) | Recording mouse events with pynput |
-| [04-phase2-player.md](./04-phase2-player.md) | Replaying macros with accurate timing |
-| [05-phase3-hotkeys.md](./05-phase3-hotkeys.md) | Global hotkeys + background running |
-| [06-phase4-storage.md](./06-phase4-storage.md) | Saving/loading macros as JSON |
-| [07-phase5-advanced.md](./07-phase5-advanced.md) | Loops, delays, conditional triggers |
-| [08-phase6-ui.md](./08-phase6-ui.md) | Tkinter editor + system tray |
-| [09-packaging.md](./09-packaging.md) | Building the final .exe with PyInstaller |
-| [10-copilot-playbook.md](./10-copilot-playbook.md) | Exact Copilot prompts for every phase |
-| [11-mistakes.md](./11-mistakes.md) | Common bugs and how to fix them |
-| [12-testing.md](./12-testing.md) | Testing checklist per phase |
-
----
 
 ## 🗺️ Build Roadmap
 
